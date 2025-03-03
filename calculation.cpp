@@ -3,7 +3,7 @@ declare class calculation
 declare datta member num1 and num2 in private section
  write member function for initialize num1 and num2
  write member function for each operation*/
-/*
+
 #include <iostream>
 using namespace std;
 class Calculation
